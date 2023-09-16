@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.part{
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  align-items: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
